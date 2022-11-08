@@ -1,0 +1,58 @@
+body {
+    max-width:100%;
+}
+
+.logo {
+    width:50%;
+}
+
+header{
+    color:#fff !important;
+}
+
+
+a img {
+    background-color:#fff;
+    border-radius:50%;
+    width:8%;
+}
+
+a {
+    text-decoration:none !important;
+    list-style:none !important;
+    color:#A4A4A4 !important; 
+}
+
+.oo {
+    text-align:center;
+    padding:4%;
+    background-color:#2E9AFE;
+    border-radius:50%;
+}
+
+.oo a {
+    color:#373737 !important;
+}
+
+.wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.form-signin {
+  max-width: 380px;
+  padding: 15px 35px 45px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(0,0,0,0.1);  
+}
+
+.footer {
+    width:100%;
+    margin:0 auto;
+    padding:20px;
+    display:block;
+    text-decoration:none;
+    text-align: right;
+}
+
